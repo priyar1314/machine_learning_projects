@@ -1,0 +1,27 @@
+Unique point about this is we don’t have to do feature scaling in decision tree and random forest regression
+Dataset:
+Here, I am using dataset of different positions and levels going from 1 to 10 and salary going from 45000 dollars to 1000000 dollars
+For this we use Position and salary dataset
+We are using simple dataset
+
+
+Scenario:
+The Human Resources department wants to hire someone
+A person is offered a position with tedious interviews
+Now we have to determine the salary expectation
+Now the person is asking 160000 $
+Now the person says, that I have earned the same in my previous position
+The company need to at least meet the previous salary
+The HR department wants us to determine if the statement is true or bluff
+This will be determined using polynomial regression model to build previous salary of the candidate
+Dataset: salaries of different companies from business analyst to CEO
+Compare the salaries of different positions to this person designation and company
+
+
+
+Assumptions:
+According to the person Resume and Profile:
+ On LinkedIn it shows the person has been a regional manager
+this person has been manager for past 2 years
+In this, now depending on person experience and designation the company considered the level of person to be 6.5
+
